@@ -1,1 +1,4 @@
 ansible/hosts
+ansible/common/files/zabbix_agentd.conf
+ansible/playbooks/add_user.yml
+ansible/playbooks/script.yml
