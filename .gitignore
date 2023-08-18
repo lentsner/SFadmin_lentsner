@@ -1,1 +1,3 @@
 ansible/hosts
+ansible/playbooks/script.yml
+ansible/playbooks/add-user.yml
