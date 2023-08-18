@@ -1,7 +1,2 @@
 ansible/hosts
-ansible/playbooks/redis.yml 
 ansible/playbooks/script.yml 
-ansible/playbooks/zabbix.yml
-ansible/zabbix/zabbix_agentd.conf
-ansible/playbooks/skript.yml
-ansible/common/files/zabbix_agentd.conf
